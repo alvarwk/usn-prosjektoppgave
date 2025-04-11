@@ -19,3 +19,5 @@ Bytt til venv\Scripts\activate for å kjøre på Windows maskin
    pip install -r requirements.txt
    python main.py
    ```
+
+Merk: Programmet viser figurene stolpediagram og kakediagram. For å fortsette programmet må figurvinduene lukkes
