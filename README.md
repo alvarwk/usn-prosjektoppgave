@@ -5,8 +5,9 @@ Et Python-prosjekt som analyserer og visualiserer supportdata for MORSE.
 Prosjektet leser data fra en Excel-fil og utfører diverse analyser.
 
 ## Oppsett og kjøring
-Kopier kommandoene under for klone prosjektet, sette opp et rent virtuelt miljø,
+Kopier kommandoene under for å klone prosjektet, sette opp et nytt virtuelt miljø,
 installere nødvendige pakker og kjøre koden.
+
 Bytt til venv\Scripts\activate for å kjøre på Windows maskin
 
    ``` bash
@@ -20,4 +21,4 @@ Bytt til venv\Scripts\activate for å kjøre på Windows maskin
    python main.py
    ```
 
-Merk: Programmet viser figurene stolpediagram og kakediagram. For å fortsette programmet må figurvinduene lukkes
+MERK: For at programmet skal fortsette må figurvinduene lukkes
