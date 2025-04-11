@@ -1,0 +1,22 @@
+# Systemfiler
+.DS_Store
+
+# Python bytecode og cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-spesifikke filer (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
